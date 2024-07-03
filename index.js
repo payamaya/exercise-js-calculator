@@ -39,4 +39,7 @@ switch (userInput) {
 if (result !== undefined) {
   console.log(`The result is: ${result}`)
 }
-// document.getElementById('demo').innerHTML = number
+document.getElementById('refresh').addEventListener('click', function () {
+  location.reload()
+})
+// document.getElementById('demo').innerHTML = result
