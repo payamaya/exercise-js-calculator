@@ -7,8 +7,6 @@
 
 #### Prompt
 
-[back top Top](#exercise-js-calculator)
-
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
 
@@ -18,3 +16,5 @@ const substraction = (a, b) => a - b
 const multiplication = (a, b) => a * b
 const division = (a, b) => a / b
 ```
+
+[back top Top](#exercise-js-calculator)
