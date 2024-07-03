@@ -1,4 +1,4 @@
-# exercise-js-calculator {#top}
+# exercise-js-calculator (#top)
 
 #### Alert
 
@@ -7,7 +7,7 @@
 
 #### Prompt
 
-[back top Top](top)
+[back top Top](#exercise-js-calculator)
 
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
@@ -26,7 +26,7 @@ const division = (a, b) => a / b
 
 #### Prompt
 
-[back top Top](top)
+[back top Top](#exercise-js-calculator)
 
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
@@ -45,7 +45,7 @@ const division = (a, b) => a / b
 
 #### Prompt
 
-[back top Top](top)
+[back top Top](#exercise-js-calculator)
 
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
@@ -64,7 +64,7 @@ const division = (a, b) => a / b
 
 #### Prompt
 
-[back top Top](top)
+[back top Top](#exercise-js-calculator)
 
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
@@ -83,7 +83,7 @@ const division = (a, b) => a / b
 
 #### Prompt
 
-[back top Top](top)
+[back top Top](#exercise-js-calculator)
 
 - using **prompt** to enter num1, num2
 - Another **prompt** to choose what kind of calculation the user wants to make
