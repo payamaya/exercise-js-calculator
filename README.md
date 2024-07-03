@@ -1,4 +1,4 @@
-# exercise-js-calculator (#top)
+# exercise-js-calculator
 
 #### Alert
 
